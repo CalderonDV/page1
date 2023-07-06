@@ -2,8 +2,8 @@
   <body>
     <div>hola</div>
     <form>
-      <input type="text" class="texto" >
-      <input type="number" class="numero">
+      <input type="text" placeholder="nombre">
+      <input type="number" placeholder="edad">
     </form>
   </body>  
   
