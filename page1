@@ -15,14 +15,14 @@
     <div id="container">
         <form>
             <!-- Username -->
-            <label for="name">Nombre de usuario:</label>
+            <label for="name">Nombre de usuario 1 :</label>
             <input type="name">
             <!-- Password --><br>
-            <label for="username">Contraseña:</label>
+            <label for="username">Contraseña 2:</label>
             <input type="password">
-            <p><a href="#">¿Olvido su contraseña?</a>
+            <p><a href="#">¿Olvido su contraseña? de clic aquí</a>
             <div id="lower">
-                <input type="checkbox"><label class="check" for="checkbox">Conservar mi sesión iniciada</label>
+                <input type="checkbox"><label class="check" for="checkbox">Conservar mi sesión iniciada marque la casilla</label>
                 <!-- Submit Button -->
                 <input type="submit" value="Login">
             </div>
